@@ -15,12 +15,12 @@ function multiply(a, b) {
 
 function increment(n) {
   n +=
-  return(n)
+(n)
 }
 
 function decrement(n) {
   n -=
-  return(n)
+  (n)
 }
 
 function makeInt(n) {

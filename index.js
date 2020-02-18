@@ -15,7 +15,7 @@ function multiply(a, b) {
 
 function increment(number) {
   number++
-  number
+  return number
 }
 
 function decrement(n) {

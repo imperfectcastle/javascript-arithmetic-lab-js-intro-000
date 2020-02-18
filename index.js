@@ -18,9 +18,9 @@ function increment(number) {
   return number
 }
 
-function decrement(n) {
-  n-=
-  return n
+function decrement(number) {
+  number--
+  return number
 }
 
 function makeInt(n) {

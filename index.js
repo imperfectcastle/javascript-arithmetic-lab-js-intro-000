@@ -23,12 +23,11 @@ function decrement(number) {
   return number
 }
 
-function makeInt(string, 10) {
-  parseInt(string, 10)
-  return(string)
+function makeInt(string) {
+  return parseInt(string, 10)
 }
 
 function preserveDecimal(string) {
-  parseFloat(string)
-  return(string)
+  return parseFloat(string)
+
 }

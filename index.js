@@ -14,12 +14,12 @@ function multiply(a, b) {
 }
 
 function increment(n) {
-  n+=
+  n +=
   return(n)
 }
 
 function decrement(n) {
-  n-=
+  n -=
   return(n)
 }
 

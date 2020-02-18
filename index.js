@@ -23,8 +23,8 @@ function decrement(number) {
   return number
 }
 
-function makeInt(n) {
-  parseInt(n, '10')
+function makeInt() {
+  parseInt('2', 10)
   return(n)
 }
 

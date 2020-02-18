@@ -13,9 +13,9 @@ function multiply(a, b) {
   return (a * b)
 }
 
-function increment(n) {
-  n+=
- n
+function increment(number) {
+  number++
+  number
 }
 
 function decrement(n) {

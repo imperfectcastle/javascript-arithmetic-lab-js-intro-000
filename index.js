@@ -14,13 +14,13 @@ function multiply(a, b) {
 }
 
 function increment(n) {
-  n +=
-(n)
+  n+=
+ n
 }
 
 function decrement(n) {
   n -=
-  (n)
+  n
 }
 
 function makeInt(n) {
